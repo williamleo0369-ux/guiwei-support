@@ -54,3 +54,8 @@ Apple and Google sign-in are optional. Signing out preserves inventory on this d
 ## Support
 
 Open an issue with the feature, app/iOS versions and anonymous reproduction steps. Issues are public. Do not include passwords, codes, addresses, identity documents, account details, private photos or backups.
+
+
+客服邮箱 / Support email: [81382377@qq.com](mailto:81382377@qq.com)
+
+私人账号或隐私请求请通过邮箱联系，不要发到公开 Issue。 For private account or privacy requests, use email rather than public issues.

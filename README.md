@@ -19,3 +19,8 @@ Guiwei is preparing for iPhone release and is not yet on the App Store. The plan
 此仓库仅发布帮助与政策，不包含应用源码、用户照片、备份、账号凭据或备案证件。请勿在公开反馈中上传这些资料。
 
 This repository contains support and policy documents only. Do not post private photos, backups, account credentials or identity documents in public issues.
+
+
+客服邮箱 / Support email: [81382377@qq.com](mailto:81382377@qq.com)
+
+私人账号或隐私请求请通过邮箱联系，不要发到公开 Issue。 For private account or privacy requests, use email rather than public issues.

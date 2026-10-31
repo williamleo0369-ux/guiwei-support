@@ -75,3 +75,8 @@ You may contact support about access, correction or deletion requests. Provide o
 ## Children and security
 
 Guiwei serves general home organization needs and is not designed to collect children's personal information. Avoid unnecessary sensitive details. Native login credentials use system secure storage and authentication uses HTTPS. Protect your device and backup files.
+
+
+客服邮箱 / Support email: [81382377@qq.com](mailto:81382377@qq.com)
+
+私人账号或隐私请求请通过邮箱联系，不要发到公开 Issue。 For private account or privacy requests, use email rather than public issues.
